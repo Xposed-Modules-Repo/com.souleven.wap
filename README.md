@@ -48,6 +48,7 @@ This project would not be possible without the incredible work done by the devel
 * **[DexKit](https://github.com/LuckyPray/DexKit)** - For providing the powerful, high-performance APK signature searching capabilities.
 * **[LSPosed](https://github.com/LSPosed)** - For the modern, cutting-edge ART hooking framework implementation.
 * **[rovo89](https://github.com/rovo89/xposed)** - For the foundational revolutionary Xposed Framework that inspired modern Android modding.
+* **[Revealed SoulEven](https://github.com/RevealedSoulEven)** - Developer
 
 ---
 
